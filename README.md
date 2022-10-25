@@ -34,3 +34,6 @@ python detect_and_crop.py --weights yolov7.pt --source "your video.mp4" -classes
 
 ### Results
 
+
+<img src="https://github.com/noorkhokhar99/yolov7-object-cropping/blob/main/Screen%20Shot%201444-03-29%20at%201.34.23%20PM.png">
+
